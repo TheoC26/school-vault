@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "dash",
+      "path": "dash.md"
+    },
+    {
+      "type": "file",
+      "title": "notes",
+      "path": "notes.md"
+    },
+    {
+      "type": "file",
+      "title": "time management",
+      "path": "time management.md"
+    },
+    {
+      "type": "file",
+      "title": "daily notes",
+      "path": "daily notes/daily notes.md"
+    }
+  ]
+}

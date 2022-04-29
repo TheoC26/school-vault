@@ -1,0 +1,156 @@
+{
+  "workspaces": {
+    "note taking": {
+      "main": {
+        "id": "b60a30ee15afcd9a",
+        "type": "split",
+        "children": [
+          {
+            "id": "cee18f27daafb29d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hello.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "2c20d8105aa1de24",
+        "type": "split",
+        "children": [
+          {
+            "id": "f61485a7a7e921c6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3c8718a7241e6291",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "9f56893587599d27",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "37e331d5a81bb1a2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "42ed7e142fae69a3",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "f4178a10e22b8f52",
+        "type": "split",
+        "children": [
+          {
+            "id": "18daba05645119e7",
+            "type": "tabs",
+            "dimension": 30.18867924528302,
+            "children": [
+              {
+                "id": "3cb9727e0083db3d",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "e3161223d498b51d",
+            "type": "tabs",
+            "dimension": 39.740566037735846,
+            "children": [
+              {
+                "id": "ae8ed3ddaaabe4ff",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "9c37854082608c7d",
+            "type": "tabs",
+            "dimension": 30.070754716981128,
+            "children": [
+              {
+                "id": "01450f64be0f79c6",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "hello.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "7cb8ce6064f329f7",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "hello.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "active": "cee18f27daafb29d"
+    }
+  },
+  "active": "note taking"
+}

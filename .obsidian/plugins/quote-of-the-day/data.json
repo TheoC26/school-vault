@@ -1,0 +1,5 @@
+{
+  "quoteFormat": "> ##{content}\n> <cite>{author}</cite>",
+  "quoteTagFormat": ">\n> ---\n> {tags}",
+  "showTags": false
+}
