@@ -130,8 +130,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "9c37854082608c7d",
@@ -188,14 +187,14 @@
   "active": "412ea623b7c374d2",
   "lastOpenFiles": [
     "notes.md",
+    "dashboard.md",
+    "concepts.md",
     "school.md",
     "daily notes/2022-04-28.md",
     "daily notes/daily notes.md",
     "time management.md",
     "templates/daily note.md",
-    "dash.md",
     "<% tp.date.now(\"YYYY-MM-DD\", 1) %>.md",
-    "todos.md",
-    "todo.md"
+    "todos.md"
   ]
 }

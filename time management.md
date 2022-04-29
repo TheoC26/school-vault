@@ -1,4 +1,4 @@
-pages: [[dash]] 
+pages: [[dashboard]] 
 tags: #index
 
 # time management

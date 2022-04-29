@@ -1,4 +1,4 @@
-# dash 🎛
+# dashboard 🎛
 
 
 > We gain the strength of the temptation we resist.
@@ -8,7 +8,7 @@ ___
 # things
 ## [[time management]]
 ## [[notes]]
-
+## [[concepts]]
 
 
 ![[todos]]
