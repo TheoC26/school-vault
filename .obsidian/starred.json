@@ -8,12 +8,7 @@
     {
       "type": "file",
       "title": "notes",
-      "path": "notes.md"
-    },
-    {
-      "type": "file",
-      "title": "time management",
-      "path": "time management.md"
+      "path": "01 notes.md"
     },
     {
       "type": "file",

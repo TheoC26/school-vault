@@ -2,10 +2,10 @@ pages: [[00 dashboard]]
 tags: #index
 
 ___
-# notes
+# 01 notes
 
-## [[school]]
-## [[comp sci]]
+## [[02 school]]
+## [[02 comp sci]]
 
 - each class has tag course
 - each note has tag note

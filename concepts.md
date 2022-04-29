@@ -3,3 +3,7 @@ tags: #index
 
 ___
 # concepts
+
+```dataview
+table 
+```

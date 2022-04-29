@@ -7,8 +7,7 @@ ___
 
 
 # things
-## [[time management]]
-## [[notes]]
+## [[01 notes]]
 ## [[concepts]]
 
 

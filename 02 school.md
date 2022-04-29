@@ -1,7 +1,7 @@
 pages: [[00 dashboard]] 
 tags: #index
 
-# time management
+___
+# 02 school
 
-![[todos]]
-
+[[9th Grade]] 
