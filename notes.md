@@ -4,5 +4,4 @@ tags: #index
 ___
 # notes
 
-##
-[[school]]
+## [[school]]
