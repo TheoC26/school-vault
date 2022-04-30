@@ -3,6 +3,8 @@ name: "1776 Commission Report"
 ---
 
 tags: #concept/writing
+___
+
 
 ## where to find it
 [1776 Commission Report](https://drive.google.com/drive/folders/1eyYeronY6NL9l5G6J6R6rifb-r0nySab)
@@ -20,10 +22,5 @@ tags: #concept/writing
 	- color blindness being equated to [[equality/fairness]]
 		- report is suggesting that the [[Civil Rights Movement]] became warped and was used to justify "group rights"
 			- framing this as discrimination
-- [[Identity Politics]] 
-	- your identity and how it effects you
-	- De facto vs. De jure
-	- Examples of identity politics
-		- [[Black Lives Matter]] 
-		- Women's Abortion 
-	- equality seen as a [[zero-sum game]]
+- Identity Politics
+	- ![[Identity Politics#what is it]] 

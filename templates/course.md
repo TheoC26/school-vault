@@ -1,12 +1,12 @@
-pages: [[Freshman]] 
+pages: 
 tag: #course
 
 ___ 
 
-# World History 1
+# <% tp.file.title %>
 
 ## assignments
-- ### [[A5 American History]]
+- 
 
 ## overview
 

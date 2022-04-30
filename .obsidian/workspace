@@ -4,103 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4fe802d9d4c92769",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "concepts.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "a8109d11987eeeba",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "00 dashboard.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
-        }
-      },
-      {
         "id": "da2eeb37c50f3e12",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01 notes.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "a7c26c1a3aebf3bc",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "9th Grade.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "c6b5c5659ee4609e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "world history 1.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "e428eae874082b99",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "1776 Commission Report.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "7205607acbbbd256",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "daily notes/daily notes.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "fb2ee3147a7f84fe",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "daily notes/daily notes.md",
+            "file": "00 dashboard.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -117,7 +26,7 @@
       {
         "id": "59a229b00a6fc00a",
         "type": "tabs",
-        "dimension": 30.601092896174865,
+        "dimension": 30.430107526881724,
         "children": [
           {
             "id": "778a9c3d973c9c01",
@@ -132,7 +41,7 @@
       {
         "id": "f61485a7a7e921c6",
         "type": "tabs",
-        "dimension": 27.049180327868854,
+        "dimension": 21.50537634408602,
         "children": [
           {
             "id": "42ed7e142fae69a3",
@@ -140,6 +49,28 @@
             "state": {
               "type": "starred",
               "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "37e331d5a81bb1a2",
+        "type": "tabs",
+        "dimension": 48.064516129032256,
+        "children": [
+          {
+            "id": "9f56893587599d27",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#concept/thing",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -152,28 +83,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "37e331d5a81bb1a2",
-        "type": "tabs",
-        "dimension": 42.349726775956285,
-        "children": [
-          {
-            "id": "9f56893587599d27",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -186,7 +95,7 @@
       {
         "id": "18daba05645119e7",
         "type": "tabs",
-        "dimension": 44.3609022556391,
+        "dimension": 39.41997851772288,
         "children": [
           {
             "id": "8eb5c9f9282b16e6",
@@ -195,13 +104,21 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "73f85958cb26606a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ]
       },
       {
         "id": "e3161223d498b51d",
         "type": "tabs",
-        "dimension": 25.563909774436087,
+        "dimension": 30.50483351235231,
         "children": [
           {
             "id": "ae8ed3ddaaabe4ff",
@@ -209,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "concepts.md"
+                "file": "00 dashboard.md"
               }
             }
           },
@@ -234,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepts.md",
+                "file": "00 dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "concepts.md",
+                "file": "00 dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -275,17 +192,17 @@
     "direction": "horizontal",
     "width": 242
   },
-  "active": "4fe802d9d4c92769",
+  "active": "da2eeb37c50f3e12",
   "lastOpenFiles": [
-    "concepts.md",
-    "1776 Commission Report.md",
-    "world history 1.md",
-    "9th Grade.md",
-    "01 notes.md",
     "00 dashboard.md",
-    "daily notes/daily notes.md",
+    "01 notes.md",
+    "templates/daily note.md",
+    "daily notes/01 daily notes.md",
     "daily notes/2022-04-29.md",
     "daily notes/2022-04-28.md",
-    "templates/daily note.md"
+    "Identity Politics.md",
+    "Civil Rights Movement.md",
+    "1619 Project.md",
+    "templates/concept-writing.md"
   ]
 }

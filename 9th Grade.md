@@ -1,2 +1,0 @@
-
-[[world history 1]] 

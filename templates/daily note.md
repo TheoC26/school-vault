@@ -2,8 +2,9 @@
 creation-date: <% tp.file.creation_date() %> 
 modification-date: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %> 
 ---
-links: [[daily notes]] 
+links: [[01 daily notes]] 
 #daily-note
+___
 
 👈 [[<% tp.date.now("YYYY-MM-DD", -1) %>]] | [[<% tp.date.now("YYYY-MM-DD", 1) %>]] 👉 
 
@@ -18,8 +19,10 @@ links: [[daily notes]]
 ## thoughts about the day:
 - 
 
-## what did you do?
-- 
+## energy check-in:
+- physical::
+- focus::
+- emotional::
 
 ## random thoughts:
 - 

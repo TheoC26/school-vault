@@ -104,5 +104,14 @@
     }
   ],
   "obsidian-outliner:fold": [],
-  "obsidian-outliner:unfold": []
+  "obsidian-outliner:unfold": [],
+  "templater-obsidian:insert-templater": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "E"
+    }
+  ]
 }

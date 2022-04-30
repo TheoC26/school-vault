@@ -4,4 +4,10 @@ tags: #index
 ___
 # 02 school
 
-[[9th Grade]] 
+## highschool
+- ### [[Freshman]]
+
+## college
+- 
+
+## projects

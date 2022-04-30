@@ -8,18 +8,20 @@ ___
 
 # things
 ## [[01 notes]]
-## [[concepts]]
+## [[01 concepts]]
+## [[01 daily notes]] 
 
 
 ![[todos]]
 
 
-- [ ] create template for new note, new course, project, ect.
-	- [ ] make a smart way for them to all work when creating a new file
-	- [ ] create shortcuts for them
+- [x] create template for new note, new course, project, ect.
+	- [x] make a smart way for them to all work when creating a new file
+	- [x] create shortcuts for them
 - [ ] add weather, quote etc to make dash look good
 - [ ] make a projects page index
-- [ ] come up with a naming convention
+	- [ ] instead might make each project from it's class and then make a template for it
+- [x] come up with a naming convention
 	- idea:
 		- depending on distance from dashboard the number gets bigger
 			- the notes and projects main page will be "01 notes" and "01 projects"
