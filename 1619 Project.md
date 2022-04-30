@@ -2,6 +2,7 @@
 name: "1619 Project"
 type: "writing"
 ---
+pages: [[00 dashboard]], [[01 concepts]]
 tags: #concept/writing 
 
 ___

@@ -1,4 +1,4 @@
-pages: 
+pages: [[00 dashboard]], [[01 notes]]
 tag: #course
 
 ___ 

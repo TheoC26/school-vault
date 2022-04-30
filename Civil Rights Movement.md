@@ -2,6 +2,7 @@
 name: "Civil Rights Movement"
 type: "thing"
 ---
+pages: [[01 concepts]]
 tags: #concept/thing  
 
 ___

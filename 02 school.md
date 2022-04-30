@@ -1,11 +1,11 @@
-pages: [[00 dashboard]] 
+pages: [[00 dashboard]], [[01 notes]] 
 tags: #index
 
 ___
 # 02 school
 
 ## highschool
-- ### [[Freshman]]
+- ### [[03 freshman]]
 
 ## college
 - 

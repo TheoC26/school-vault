@@ -2,6 +2,7 @@
 name: "# <% tp.file.title %>"
 type: "thing"
 ---
+pages: [[00 dashboard]], [[01 concepts]]
 tags: #concept/thing
 
 ___

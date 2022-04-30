@@ -2,7 +2,7 @@
 creation-date: <% tp.file.creation_date() %> 
 modification-date: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %> 
 ---
-links: [[01 daily notes]] 
+pages: [[01 daily notes]] 
 #daily-note
 ___
 
@@ -16,7 +16,7 @@ ___
 ## what i want to do today:
 - [ ] 
 
-## thoughts about the day:
+## thoughts about the day / what i did:
 - 
 
 ## energy check-in:

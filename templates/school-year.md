@@ -1,4 +1,4 @@
-pages: [[02 school]]
+pages: [[00 dashboard]], [[01 concepts]], [[02 school]]
 tag: #school-year 
 
 ___

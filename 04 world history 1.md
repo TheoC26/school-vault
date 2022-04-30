@@ -1,4 +1,4 @@
-pages: [[Freshman]] 
+pages: [[00 dashboard]], [[01 notes]], [[03 freshman]] 
 tag: #course
 
 ___ 
@@ -7,7 +7,7 @@ ___
 
 ## assignments
 - ### [[A4 Chinese History]]
-- ### [[A5 American History]]
+- ### [[05 A5 American History]]
 
 ## overview
 
