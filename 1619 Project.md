@@ -1,5 +1,5 @@
 ---
-name: "# 1619 Project"
+name: "1619 Project"
 type: "writing"
 ---
 tags: #concept/writing 

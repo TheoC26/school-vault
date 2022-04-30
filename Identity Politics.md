@@ -1,5 +1,5 @@
 ---
-name: "# Identity Politics"
+name: "Identity Politics"
 type: "thing"
 ---
 tags: #concept/idea

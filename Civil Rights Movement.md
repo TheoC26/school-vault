@@ -1,5 +1,5 @@
 ---
-name: "# Civil Rights Movement"
+name: "Civil Rights Movement"
 type: "thing"
 ---
 tags: #concept/thing  

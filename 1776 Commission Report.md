@@ -1,5 +1,6 @@
 ---
 name: "1776 Commission Report"
+type: "writing"
 ---
 
 tags: #concept/writing
@@ -22,5 +23,5 @@ ___
 	- color blindness being equated to [[equality/fairness]]
 		- report is suggesting that the [[Civil Rights Movement]] became warped and was used to justify "group rights"
 			- framing this as discrimination
-- Identity Politics
+- [[Identity Politics]]
 	- ![[Identity Politics#what is it]] 

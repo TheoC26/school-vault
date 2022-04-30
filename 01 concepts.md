@@ -5,7 +5,7 @@ ___
 # 01 concepts
 
 ```dataview
-table name
+table type
 from #concept and !"templates"
 sort length(file.inlinks) DESC
 ```
