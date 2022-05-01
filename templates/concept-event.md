@@ -1,6 +1,6 @@
 ---
 name: "<% tp.file.title %>"
-type: "thing"
+type: "event"
 ---
 pages: [[00 dashboard]], [[01 concepts]]
 tags: #concept/thing
@@ -9,13 +9,16 @@ ___
 
 # <% tp.file.title %> 
 
-## what is it
+## what was it
 
 
-## what is it's purpose
+## when was it
 
 
-## who created it / found it
+## who was involved
+
+
+## impact
 
 
 ## sources on it

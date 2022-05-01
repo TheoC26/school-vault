@@ -1,5 +1,5 @@
 ---
-name: "# <% tp.file.title %>"
+name: "<% tp.file.title %>"
 type: "writing"
 ---
 pages: [[00 dashboard]], [[01 concepts]]

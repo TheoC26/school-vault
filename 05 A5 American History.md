@@ -5,6 +5,9 @@ ___
 
 # A5 American History
 
+## class document
+[class document](https://docs.google.com/document/d/1kRUyWcLC5NmnMTzZWt-qzbn9ZC3YzK_pViZOrEQTw2U/edit)
+
 ## notes
 - [[D5 4.13]]
 - [[D6 4.18]]
@@ -14,7 +17,7 @@ ___
 - [[D10 4.27]]
 - [[D10.1 4.28]] 
 
-
+[[mercantilism]] 
 ## assignments
 
 
