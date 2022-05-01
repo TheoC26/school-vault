@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "05 A5 American History.md",
+            "file": "02 school.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 A5 American History.md"
+                "file": "02 school.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 A5 American History.md",
+                "file": "02 school.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05 A5 American History.md",
+                "file": "02 school.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,11 +194,11 @@
   },
   "active": "3f68e3f9355df962",
   "lastOpenFiles": [
+    "02 school.md",
+    "01 notes.md",
     "05 A5 American History.md",
     "04 world history 1.md",
     "03 freshman.md",
-    "02 school.md",
-    "01 notes.md",
     "00 dashboard.md",
     "mercantilism.md",
     "01 concepts.md",

@@ -1,4 +1,4 @@
-pages: [[00 dashboard]], [[01 notes]] 
+ pages: [[00 dashboard]], [[01 notes]] 
 tags: #index
 
 ___
