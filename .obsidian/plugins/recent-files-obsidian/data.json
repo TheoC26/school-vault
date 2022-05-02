@@ -3,6 +3,22 @@
     {
       "basename": "2022-05-02",
       "path": "daily notes/2022-05-02.md"
+    },
+    {
+      "basename": "01 daily notes",
+      "path": "daily notes/01 daily notes.md"
+    },
+    {
+      "basename": "2022-04-29",
+      "path": "daily notes/2022-04-29.md"
+    },
+    {
+      "basename": "00 dashboard",
+      "path": "00 dashboard.md"
+    },
+    {
+      "basename": "01 concepts",
+      "path": "01 concepts.md"
     }
   ],
   "omittedPaths": [],

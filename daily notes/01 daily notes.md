@@ -5,6 +5,7 @@ ___
 ```dataview
 table physical, focus, emotional
 from #daily-note and "daily notes"
+sort file.name DESC
 ```
 
 

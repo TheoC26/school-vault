@@ -205,9 +205,17 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "dc74fde3392e2a2a",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -216,14 +224,14 @@
   "active": "044c2855e68f8781",
   "lastOpenFiles": [
     "daily notes/2022-05-02.md",
+    "daily notes/01 daily notes.md",
+    "daily notes/2022-04-29.md",
+    "00 dashboard.md",
+    "01 concepts.md",
     "templates/daily note.md",
     "04 world history 1.md",
     "04 literature and composition.md",
     "03 freshman.md",
-    "05 A5 American History.md",
-    "D10.1 4.28.md",
-    "1776 Commission Report.md",
-    "Civil Rights Movement.md",
-    "D6 4.18.md"
+    "05 A5 American History.md"
   ]
 }
