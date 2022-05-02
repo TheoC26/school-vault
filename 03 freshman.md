@@ -7,4 +7,5 @@ ___
 
 ## courses
 - ### [[04 world history 1]]
-- 
+- ### [[04 literature and composition]] 
+- ### [[04 biology]] 

@@ -17,7 +17,7 @@ ___
 - [[D10 4.27]]
 - [[D10.1 4.28]] 
 
-[[mercantilism]] 
+
 ## assignments
 
 
