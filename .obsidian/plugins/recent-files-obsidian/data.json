@@ -1,28 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "project",
-      "path": "templates/project.md"
+      "basename": "05 A5 American History",
+      "path": "05 A5 American History.md"
     },
     {
-      "basename": "04 literature and composition",
-      "path": "04 literature and composition.md"
-    },
-    {
-      "basename": "concept-event",
-      "path": "templates/concept-event.md"
-    },
-    {
-      "basename": "hurston ethnography project",
-      "path": "hurston ethnography project.md"
-    },
-    {
-      "basename": "their eyes were watching god",
-      "path": "their eyes were watching god.md"
-    },
-    {
-      "basename": "00 dashboard",
-      "path": "00 dashboard.md"
+      "basename": "04 world history 1",
+      "path": "04 world history 1.md"
     },
     {
       "basename": "03 freshman",
@@ -37,6 +21,42 @@
       "path": "01 notes.md"
     },
     {
+      "basename": "00 dashboard",
+      "path": "00 dashboard.md"
+    },
+    {
+      "basename": "01 concepts",
+      "path": "01 concepts.md"
+    },
+    {
+      "basename": "French and Indian - Seven Years War",
+      "path": "French and Indian - Seven Years War.md"
+    },
+    {
+      "basename": "D6 4.18",
+      "path": "D6 4.18.md"
+    },
+    {
+      "basename": "04 literature and composition",
+      "path": "04 literature and composition.md"
+    },
+    {
+      "basename": "their eyes were watching god",
+      "path": "their eyes were watching god.md"
+    },
+    {
+      "basename": "hurston ethnography project",
+      "path": "hurston ethnography project.md"
+    },
+    {
+      "basename": "project",
+      "path": "templates/project.md"
+    },
+    {
+      "basename": "concept-event",
+      "path": "templates/concept-event.md"
+    },
+    {
       "basename": "2022-05-02",
       "path": "daily notes/2022-05-02.md"
     },
@@ -47,10 +67,6 @@
     {
       "basename": "2022-04-29",
       "path": "daily notes/2022-04-29.md"
-    },
-    {
-      "basename": "01 concepts",
-      "path": "01 concepts.md"
     }
   ],
   "omittedPaths": [],

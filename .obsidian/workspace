@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "templates/project.md",
+            "file": "05 A5 American History.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/project.md"
+                "file": "05 A5 American History.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/project.md",
+                "file": "05 A5 American History.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/project.md",
+                "file": "05 A5 American History.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,15 +210,15 @@
   },
   "active": "f9590fd6e69b5811",
   "lastOpenFiles": [
-    "templates/project.md",
-    "04 literature and composition.md",
-    "templates/<% tp.file.title%> outline.md",
-    "templates/concept-event.md",
-    "hurston ethnography project.md",
-    "their eyes were watching god.md",
-    "00 dashboard.md",
+    "05 A5 American History.md",
+    "04 world history 1.md",
     "03 freshman.md",
     "02 school.md",
-    "01 notes.md"
+    "01 notes.md",
+    "00 dashboard.md",
+    "01 concepts.md",
+    "French and Indian - Seven Years War.md",
+    "D6 4.18.md",
+    "04 literature and composition.md"
   ]
 }
