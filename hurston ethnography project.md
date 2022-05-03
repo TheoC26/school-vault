@@ -1,1 +1,2 @@
 - Todo: make project template
+- https://docs.google.com/document/d/15g5EVGEKa8gQADNOHqclKGC3MB-VGygGOC-mMBdxaz8/edit 

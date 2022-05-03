@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "project",
+      "path": "templates/project.md"
+    },
+    {
+      "basename": "04 literature and composition",
+      "path": "04 literature and composition.md"
+    },
+    {
+      "basename": "concept-event",
+      "path": "templates/concept-event.md"
+    },
+    {
       "basename": "hurston ethnography project",
       "path": "hurston ethnography project.md"
     },
     {
       "basename": "their eyes were watching god",
       "path": "their eyes were watching god.md"
-    },
-    {
-      "basename": "04 literature and composition",
-      "path": "04 literature and composition.md"
     },
     {
       "basename": "00 dashboard",
