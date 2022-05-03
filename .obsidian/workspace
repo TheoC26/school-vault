@@ -4,12 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "b81e6b3f60837139",
+        "id": "f9590fd6e69b5811",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00 dashboard.md",
+            "file": "04 literature and composition.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "222ae5bd1e4e6f3a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "hurston ethnography project.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -33,14 +46,6 @@
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "a2417954829f3a60",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
               "state": {}
             }
           }
@@ -88,9 +93,17 @@
               "type": "file-explorer",
               "state": {}
             }
+          },
+          {
+            "id": "a2417954829f3a60",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 dashboard.md"
+                "file": "hurston ethnography project.md"
               }
             }
           },
@@ -159,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 dashboard.md",
+                "file": "hurston ethnography project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 dashboard.md",
+                "file": "hurston ethnography project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,17 +221,17 @@
     "direction": "horizontal",
     "width": 242
   },
-  "active": "b81e6b3f60837139",
+  "active": "222ae5bd1e4e6f3a",
   "lastOpenFiles": [
-    "00 dashboard.md",
+    "hurston ethnography project.md",
+    "their eyes were watching god.md",
     "04 literature and composition.md",
-    "daily notes/2022-05-02.md",
-    "daily notes/01 daily notes.md",
-    "daily notes/2022-04-29.md",
-    "01 concepts.md",
-    "templates/daily note.md",
-    "04 world history 1.md",
+    "00 dashboard.md",
     "03 freshman.md",
-    "05 A5 American History.md"
+    "02 school.md",
+    "01 notes.md",
+    "practice Kanban.md",
+    "Excalidraw/Drawing 2022-05-03 08.19.13.excalidraw.md",
+    "daily notes/2022-05-02.md"
   ]
 }

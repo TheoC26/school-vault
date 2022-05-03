@@ -6,6 +6,7 @@ ___
 # 04 literature and composition
 
 ## assignments
+- ### [[their eyes were watching god]] 
 - 
 
 ## overview
