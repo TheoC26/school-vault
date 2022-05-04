@@ -16,6 +16,4 @@ ___
 ![[todos]]
 
 
-- [ ] make a projects page index
-	- [ ] instead might make each project from it's class and then make a template for it
 

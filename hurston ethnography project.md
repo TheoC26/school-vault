@@ -21,15 +21,15 @@ ___
 
 
 ## outline
-### [[hurston ethnography project outline]]
+#### [[hurston ethnography project outline]]
 
 
 ## draft
-### [[hurston ethnography project draft]]
+#### [[hurston ethnography project draft]]
 
 
 ## final
-### [[hurston ethnography project final]]
+#### [[hurston ethnography project final]]
 
 
 ## gdoc
