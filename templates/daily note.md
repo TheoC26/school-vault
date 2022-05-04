@@ -13,6 +13,10 @@ ___
 
 ![[todos]]
 
+
+## weather
+<% tp.user.getWeather() %>
+
 ## what i want to do today:
 - [ ] 
 

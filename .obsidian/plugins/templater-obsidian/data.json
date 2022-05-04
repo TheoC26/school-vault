@@ -1,15 +1,15 @@
 {
-  "command_timeout": 5,
+  "command_timeout": 10,
   "templates_folder": "templates",
   "templates_pairs": [
     [
-      "",
-      ""
+      "getWeather",
+      "curl wttr.in\\?format=\"%l:+%c+%t+feels+like+%f\\nSunrise:+%S\\nSunset:++%s\\nMoon:++++%m\\n\""
     ]
   ],
   "trigger_on_file_creation": true,
   "auto_jump_to_cursor": false,
-  "enable_system_commands": false,
+  "enable_system_commands": true,
   "shell_path": "",
   "user_scripts_folder": "",
   "enable_folder_templates": true,
@@ -21,7 +21,7 @@
   ],
   "syntax_highlighting": true,
   "enabled_templates_hotkeys": [
-    ""
+    "templates/note.md"
   ],
   "startup_templates": [
     ""

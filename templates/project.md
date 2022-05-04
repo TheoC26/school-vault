@@ -10,7 +10,7 @@ ___
 
 
 ## ideas
-
+- 
 
 
 ## todo
@@ -26,3 +26,6 @@ ___
 
 
 ## final
+### [[<% tp.file.title%> final]]
+
+## gdoc

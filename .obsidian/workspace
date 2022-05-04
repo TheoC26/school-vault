@@ -4,15 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "f9590fd6e69b5811",
+        "id": "5f71349eed175ac3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "05 A5 American History.md",
+            "file": "hurston ethnography project.md",
             "mode": "source",
             "backlinks": false,
             "source": false
+          }
+        }
+      },
+      {
+        "id": "46ec854f7ea50f1f",
+        "type": "leaf",
+        "state": {
+          "type": "kanban",
+          "state": {
+            "file": "hurston ethnography project kanban.md"
           }
         }
       }
@@ -41,7 +51,7 @@
       {
         "id": "f61485a7a7e921c6",
         "type": "tabs",
-        "dimension": 21.50537634408602,
+        "dimension": 23.870967741935484,
         "children": [
           {
             "id": "42ed7e142fae69a3",
@@ -56,7 +66,7 @@
       {
         "id": "37e331d5a81bb1a2",
         "type": "tabs",
-        "dimension": 48.064516129032256,
+        "dimension": 45.69892473118279,
         "children": [
           {
             "id": "9f56893587599d27",
@@ -64,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "donald",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,8 +99,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -126,7 +135,7 @@
       {
         "id": "e3161223d498b51d",
         "type": "tabs",
-        "dimension": 30.50483351235231,
+        "dimension": 27.28249194414608,
         "children": [
           {
             "id": "ae8ed3ddaaabe4ff",
@@ -134,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 A5 American History.md"
+                "file": "hurston ethnography project.md"
               }
             }
           },
@@ -151,7 +160,7 @@
       {
         "id": "9c37854082608c7d",
         "type": "tabs",
-        "dimension": 30.075187969924812,
+        "dimension": 33.297529538131045,
         "children": [
           {
             "id": "01450f64be0f79c6",
@@ -159,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 A5 American History.md",
+                "file": "hurston ethnography project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05 A5 American History.md",
+                "file": "hurston ethnography project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,17 +217,17 @@
     "direction": "horizontal",
     "width": 242
   },
-  "active": "f9590fd6e69b5811",
+  "active": "5f71349eed175ac3",
   "lastOpenFiles": [
-    "05 A5 American History.md",
-    "04 world history 1.md",
-    "03 freshman.md",
-    "02 school.md",
+    "hurston ethnography project.md",
+    "hurston ethnography project kanban.md",
+    "their eyes were watching god.md",
+    "04 literature and composition.md",
     "01 notes.md",
     "00 dashboard.md",
-    "01 concepts.md",
-    "French and Indian - Seven Years War.md",
-    "D6 4.18.md",
-    "04 literature and composition.md"
+    "templates/project.md",
+    "daily notes/2022-05-03.md",
+    "templates/daily note.md",
+    "D10.1 4.28.md"
   ]
 }

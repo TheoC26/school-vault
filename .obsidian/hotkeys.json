@@ -122,5 +122,14 @@
       ],
       "key": "B"
     }
+  ],
+  "templater-obsidian:templates/note.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "N"
+    }
   ]
 }
