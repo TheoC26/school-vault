@@ -17,5 +17,7 @@
   "obsidian-kanban",
   "obsidian-admonition",
   "obsidian-imgur-plugin",
-  "obsidian-autocomplete-plugin"
+  "obsidian-autocomplete-plugin",
+  "obsidian-checklist-plugin",
+  "convert-url-to-iframe"
 ]

@@ -120,6 +120,14 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "763196c211d067c5",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
         ]
       },
