@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -106,7 +106,7 @@
         "dimension": 38.95410885805763,
         "children": [
           {
-            "id": "9a2a12b62611e89a",
+            "id": "f39c33a5c1d2a58b",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -114,7 +114,7 @@
             }
           },
           {
-            "id": "cb22ba009bd01c88",
+            "id": "970631530206b19e",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -193,7 +193,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",

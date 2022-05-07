@@ -12,6 +12,3 @@ ___
 ## [[01 concepts]]
 ## [[01 daily notes]] 
 
-
-
-hre
