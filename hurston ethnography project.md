@@ -1,4 +1,4 @@
-pages: 
+pages: [[their eyes were watching god]]
 tag: #project
 
 ___
@@ -8,12 +8,18 @@ ___
 
 
 ## ideas
-- I am _stuck_ in the elevator with a couple different people
-	- they are all super quirky 
-- we start off having small talk but then move on to a more serious topic:
-	- the doorman's departure
-		- he is leaving because of an emergency and so we all decide to do something for him
-	- we brainstorm ideas for it
+- idea 1
+	- I am _stuck_ in the elevator with a couple different people
+		- they are all super quirky 
+	- we start off having small talk but then move on to a more serious topic:
+		- the doorman's departure
+			- he is leaving because of an emergency and so we all decide to do something for him
+		- we brainstorm ideas for it
+- idea 2
+	- a bunch of small scenes of me in the elevator with some people
+	- a final scene of everyone together
+- idea 3
+	- 
 
 
 ## [[hurston ethnography project kanban|kanban]]

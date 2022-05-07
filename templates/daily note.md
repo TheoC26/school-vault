@@ -17,7 +17,7 @@ ___
 ## weather
 <% tp.user.getWeather() %>
 
-## what i want to do today:
+## what i want to do today: #todo
 - [ ] 
 
 ## thoughts about the day / what i did:
