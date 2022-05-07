@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00 dashboard.md",
+            "file": "hurston ethnography project.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -103,7 +103,7 @@
       {
         "id": "18daba05645119e7",
         "type": "tabs",
-        "dimension": 38.95410885805763,
+        "dimension": 38.10032017075774,
         "children": [
           {
             "id": "f39c33a5c1d2a58b",
@@ -111,6 +111,23 @@
             "state": {
               "type": "calendar",
               "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "e3161223d498b51d",
+        "type": "tabs",
+        "dimension": 33.6179295624333,
+        "children": [
+          {
+            "id": "ae8ed3ddaaabe4ff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "hurston ethnography project.md"
+              }
             }
           },
           {
@@ -121,29 +138,13 @@
               "state": {}
             }
           }
-        ]
-      },
-      {
-        "id": "e3161223d498b51d",
-        "type": "tabs",
-        "dimension": 28.175026680896476,
-        "children": [
-          {
-            "id": "ae8ed3ddaaabe4ff",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "00 dashboard.md"
-              }
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "9c37854082608c7d",
         "type": "tabs",
-        "dimension": 32.87086446104589,
+        "dimension": 28.281750266808963,
         "children": [
           {
             "id": "01450f64be0f79c6",
@@ -151,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 dashboard.md",
+                "file": "hurston ethnography project.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -168,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 dashboard.md",
+                "file": "hurston ethnography project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +187,7 @@
             }
           },
           {
-            "id": "3f9216988236f91d",
+            "id": "07646cd8ca66ee36",
             "type": "leaf",
             "state": {
               "type": "dictionary-view",
@@ -202,15 +203,15 @@
   },
   "active": "e14a4187fd5ee1c5",
   "lastOpenFiles": [
+    "hurston ethnography project.md",
+    "their eyes were watching god.md",
+    "04 literature and composition.md",
+    "03 freshman.md",
+    "02 school.md",
+    "01 notes.md",
     "00 dashboard.md",
-    "daily notes/2022-05-07.md",
-    "daily notes/2022-05-06.md",
-    "todos.md",
-    "daily notes/2022-05-03.md",
-    "04 world history 1.md",
-    "daily notes/01 daily notes.md",
     "05 A5 American History.md",
-    "D5 4.13.md",
-    "03 freshman.md"
+    "D10.1 4.28.md",
+    "D6 4.18.md"
   ]
 }

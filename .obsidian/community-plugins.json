@@ -8,7 +8,6 @@
   "obsidian-checklist-plugin",
   "convert-url-to-iframe",
   "dataview",
-  "obsidian-dictionary-plugin",
   "obsidian-excalidraw-plugin",
   "obsidian-imgur-plugin",
   "obsidian-kanban",
@@ -19,5 +18,6 @@
   "recent-files-obsidian",
   "sliding-panes-obsidian",
   "templater-obsidian",
-  "todoist-sync-plugin"
+  "todoist-sync-plugin",
+  "obsidian-dictionary-plugin"
 ]

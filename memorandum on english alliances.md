@@ -31,7 +31,7 @@ An argument for [[mercantilism]] in france
 	- Tariff - tax imports
 	- Autarky (connection back to Hakluyt source
 	- Econ self-sufficient
-	- The colony can only tradewith the mother country
+	- The colony can only trade with the mother country
 		- Comparative advantage
 	- If France can create a product more efficiently than importing can, they should do it
 
