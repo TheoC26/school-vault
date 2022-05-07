@@ -5,16 +5,24 @@
       "path": "00 dashboard.md"
     },
     {
-      "basename": "D5 4.13",
-      "path": "D5 4.13.md"
+      "basename": "04 world history 1",
+      "path": "04 world history 1.md"
+    },
+    {
+      "basename": "01 daily notes",
+      "path": "daily notes/01 daily notes.md"
+    },
+    {
+      "basename": "2022-05-06",
+      "path": "daily notes/2022-05-06.md"
     },
     {
       "basename": "05 A5 American History",
       "path": "05 A5 American History.md"
     },
     {
-      "basename": "04 world history 1",
-      "path": "04 world history 1.md"
+      "basename": "D5 4.13",
+      "path": "D5 4.13.md"
     },
     {
       "basename": "03 freshman",
@@ -27,10 +35,6 @@
     {
       "basename": "01 notes",
       "path": "01 notes.md"
-    },
-    {
-      "basename": "01 daily notes",
-      "path": "daily notes/01 daily notes.md"
     },
     {
       "basename": "01 concepts",
