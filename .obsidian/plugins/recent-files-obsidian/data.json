@@ -5,16 +5,28 @@
       "path": "00 dashboard.md"
     },
     {
+      "basename": "2022-05-07",
+      "path": "daily notes/2022-05-07.md"
+    },
+    {
+      "basename": "2022-05-06",
+      "path": "daily notes/2022-05-06.md"
+    },
+    {
+      "basename": "todos",
+      "path": "todos.md"
+    },
+    {
+      "basename": "2022-05-03",
+      "path": "daily notes/2022-05-03.md"
+    },
+    {
       "basename": "04 world history 1",
       "path": "04 world history 1.md"
     },
     {
       "basename": "01 daily notes",
       "path": "daily notes/01 daily notes.md"
-    },
-    {
-      "basename": "2022-05-06",
-      "path": "daily notes/2022-05-06.md"
     },
     {
       "basename": "05 A5 American History",
@@ -61,20 +73,12 @@
       "path": "templates/project.md"
     },
     {
-      "basename": "2022-05-03",
-      "path": "daily notes/2022-05-03.md"
-    },
-    {
       "basename": "daily note",
       "path": "templates/daily note.md"
     },
     {
       "basename": "D10.1 4.28",
       "path": "D10.1 4.28.md"
-    },
-    {
-      "basename": "todos",
-      "path": "todos.md"
     },
     {
       "basename": "2022-05-02",

@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "4b75677e57b6f3fe",
+        "id": "e14a4187fd5ee1c5",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -29,7 +29,7 @@
         "dimension": 30.430107526881724,
         "children": [
           {
-            "id": "5f71349eed175ac3",
+            "id": "4b75677e57b6f3fe",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -56,7 +56,7 @@
       {
         "id": "37e331d5a81bb1a2",
         "type": "tabs",
-        "dimension": 45.69892473118279,
+        "dimension": 45.6989247311828,
         "children": [
           {
             "id": "9f56893587599d27",
@@ -103,10 +103,10 @@
       {
         "id": "18daba05645119e7",
         "type": "tabs",
-        "dimension": 38.56837606837607,
+        "dimension": 38.95410885805763,
         "children": [
           {
-            "id": "8eb5c9f9282b16e6",
+            "id": "9a2a12b62611e89a",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -114,28 +114,19 @@
             }
           },
           {
-            "id": "73f85958cb26606a",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "763196c211d067c5",
+            "id": "cb22ba009bd01c88",
             "type": "leaf",
             "state": {
               "type": "todo",
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "e3161223d498b51d",
         "type": "tabs",
-        "dimension": 30.02136752136752,
+        "dimension": 28.175026680896476,
         "children": [
           {
             "id": "ae8ed3ddaaabe4ff",
@@ -146,21 +137,13 @@
                 "file": "00 dashboard.md"
               }
             }
-          },
-          {
-            "id": "000609bfe22840ee",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ]
       },
       {
         "id": "9c37854082608c7d",
         "type": "tabs",
-        "dimension": 31.41025641025641,
+        "dimension": 32.87086446104589,
         "children": [
           {
             "id": "01450f64be0f79c6",
@@ -170,7 +153,7 @@
               "state": {
                 "file": "00 dashboard.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -203,31 +186,30 @@
             }
           },
           {
-            "id": "dc74fde3392e2a2a",
+            "id": "3f9216988236f91d",
             "type": "leaf",
             "state": {
               "type": "dictionary-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 242
   },
-  "active": "4b75677e57b6f3fe",
+  "active": "e14a4187fd5ee1c5",
   "lastOpenFiles": [
     "00 dashboard.md",
+    "daily notes/2022-05-07.md",
+    "daily notes/2022-05-06.md",
+    "todos.md",
+    "daily notes/2022-05-03.md",
     "04 world history 1.md",
     "daily notes/01 daily notes.md",
-    "daily notes/2022-05-06.md",
     "05 A5 American History.md",
     "D5 4.13.md",
-    "03 freshman.md",
-    "02 school.md",
-    "01 notes.md",
-    "01 concepts.md"
+    "03 freshman.md"
   ]
 }
