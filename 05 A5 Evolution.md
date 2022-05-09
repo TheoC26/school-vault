@@ -7,7 +7,17 @@ ___
 #### [slides](https://dalton.myschoolapp.com/app/student#topicdetail/1241827/111839416/111839417/2465779/0/0)
 
 ## overview
+###### covering
+- [[evolution]]
+- [[mechanics of evolution]]
+- [[speciation and biodiversity]]
 
+###### key vocab
+- fitness
+- selection
+- adaptation
+- variation
+- competition
 
 ## notes
 - [[Evolution D1 5.9]]

@@ -8,7 +8,7 @@ ___
 
 
 ## where to find it
-[1776 Commission Report](https://drive.google.com/drive/folders/1eyYeronY6NL9l5G6J6R6rifb-r0nySab)
+[1776 Commission Report](https://drive.google.com/file/d/1fv4BQElEaLteSj5ystZwX3xxeAjsBnU-/view?usp=sharing)
 
 ## what is it
 - a recent text made during Trump's reign that was meant to counter-act the [[1619 Project]] 
