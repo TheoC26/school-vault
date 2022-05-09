@@ -38,4 +38,4 @@ ___
 #### [[hurston ethnography project final]]
 
 
-## gdoc
+## [gdoc](https://docs.google.com/document/d/1YmsRpAbWtrJoWl6AMHyiM603kxOvm3BI3Gf4OBZdN4M/edit)
