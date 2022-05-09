@@ -6,7 +6,7 @@ ___
 # World History 1
 
 ## assignments
-- ### [[A4 Chinese History]]
+- ### [[05 A4 Chinese History]]
 - ### [[05 A5 American History]]
 
 ## overview
