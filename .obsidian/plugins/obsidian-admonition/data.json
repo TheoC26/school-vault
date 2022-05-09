@@ -1,5 +1,19 @@
 {
-  "userAdmonitions": {},
+  "userAdmonitions": {
+    "code": {
+      "type": "code",
+      "color": "189, 111, 226",
+      "icon": {
+        "name": "code",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "code",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": true
+    }
+  },
   "syntaxHighlight": false,
   "copyButton": false,
   "version": "9.0.2",

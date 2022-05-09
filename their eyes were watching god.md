@@ -7,3 +7,6 @@ ___
 
 ## projects
 - ### [[hurston ethnography project]]
+
+- [ ] turn into concept
+
