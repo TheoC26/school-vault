@@ -11,8 +11,6 @@ ___
 # <% tp.file.title %> 
 <% tp.web.daily_quote() %>
 
-![[todos]]
-
 
 ## weather
 <% tp.user.getWeather() %>

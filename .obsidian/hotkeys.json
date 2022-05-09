@@ -149,5 +149,13 @@
       ],
       "key": "L"
     }
+  ],
+  "workspaces:load": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "L"
+    }
   ]
 }
