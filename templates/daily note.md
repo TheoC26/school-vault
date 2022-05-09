@@ -18,7 +18,13 @@ ___
 <% tp.user.getWeather() %>
 
 ## what i want to do today: #todo
+- [ ] meditate
+- [ ] stretch 
+- [ ] pt
+- [ ] 50 pushups
 - [ ] 
+
+
 
 ## thoughts about the day / what i did:
 - 
