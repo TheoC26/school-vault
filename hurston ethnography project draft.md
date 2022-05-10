@@ -26,3 +26,5 @@ He looks at his feet and I can hardly make out the words, "fine" escape his mout
 "Biology" I say with a forced smile. The elevator slows to a stop at 10. The most hideous colored hallway meets my eyes through the door opening, standing in it with a calm, serene look is a man I have never seen before. He looks to be in his older 20s with long curly hair and sandals. 
 
 "Whats up Charlie! Whats goin on?" He walks in and gives me a small upwards nod, a gesture more for formality than friendliness. 
+
+- make this guy super talkative

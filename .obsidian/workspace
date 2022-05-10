@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "hurston ethnography project draft.md",
+            "file": "daily notes/2022-05-09.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hurston ethnography project draft.md"
+                "file": "daily notes/2022-05-09.md"
               }
             }
           }
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hurston ethnography project draft.md",
+                "file": "daily notes/2022-05-09.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hurston ethnography project draft.md",
+                "file": "daily notes/2022-05-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,8 +216,8 @@
   },
   "active": "93b7e7d7a1b36aae",
   "lastOpenFiles": [
-    "hurston ethnography project draft.md",
     "daily notes/2022-05-09.md",
+    "hurston ethnography project draft.md",
     "00 dashboard.md",
     "05 A5 American History.md",
     "American History D10.1 4.28.md",
