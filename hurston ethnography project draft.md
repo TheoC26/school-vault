@@ -19,13 +19,15 @@ He looks at his feet and I can hardly make out the words, "fine" escape his mout
 
 "Good morning, young fellows! Where are we off to today?" she croaks out, oblivious to our backpacks and that this is the time of day that every kid goes to school. 
 
-"I am heading to school" I respond, "I'm a little late though". 
+"I am heading to school," I respond, "I'm a little late though". 
 
 "That is okay, we all have our little setbacks that keep us from our larger goals, am I right? What class are you heading too?". The elevator couldn't move any slower. 
 
 "Biology" I say with a forced smile. The elevator slows to a stop at 10. The most hideous colored hallway meets my eyes through the door opening, standing in it with a calm, serene look is a man I have never seen before. He looks to be in his older 20s with long curly hair and sandals. 
 
 "What's up Charlie! What's goin on?" He walks in and gives me a small upwards nod, a gesture more for formality than friendliness. 
+
+"Hey Joey..." His head stays looking at the carpet, as though he was looking for something. Something to pass the time. 
 
 - make this guy super talkative
 
