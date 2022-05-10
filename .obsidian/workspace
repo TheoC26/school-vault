@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00 dashboard.md",
+            "file": "05 A5 Evolution.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -20,127 +20,205 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "70aec27cea6761d9",
-    "type": "mobile-drawer",
+    "id": "2c20d8105aa1de24",
+    "type": "split",
     "children": [
       {
-        "id": "6d1d89343a95120e",
-        "type": "leaf",
-        "state": {
-          "type": "recent-files",
-          "state": {}
-        }
-      },
-      {
-        "id": "9fa02fcc9531fa85",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "b61981584ce5d946",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "59a229b00a6fc00a",
+        "type": "tabs",
+        "dimension": 30.430107526881724,
+        "children": [
+          {
+            "id": "4b75677e57b6f3fe",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        }
+        ]
       },
       {
-        "id": "8d85d1b9ecf4a5e2",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
+        "id": "f61485a7a7e921c6",
+        "type": "tabs",
+        "dimension": 23.870967741935484,
+        "children": [
+          {
+            "id": "42ed7e142fae69a3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        }
+        ]
       },
       {
-        "id": "9d2470a905b631f9",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        "id": "37e331d5a81bb1a2",
+        "type": "tabs",
+        "dimension": 45.6989247311828,
+        "children": [
+          {
+            "id": "9f56893587599d27",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3c8718a7241e6291",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a2417954829f3a60",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
       }
     ],
-    "currentTab": 1
+    "direction": "horizontal",
+    "width": 269.0036315917969
   },
   "right": {
-    "id": "bbbf904d57356ed0",
-    "type": "mobile-drawer",
+    "id": "f4178a10e22b8f52",
+    "type": "split",
     "children": [
       {
-        "id": "93c0820e8402d90d",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
+        "id": "18daba05645119e7",
+        "type": "tabs",
+        "dimension": 38.95410885805763,
+        "children": [
+          {
+            "id": "9a2a12b62611e89a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "cb22ba009bd01c88",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "bb9136a2e63925e6",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
       },
       {
-        "id": "f758c6c8a8d752c5",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "00 dashboard.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "e3161223d498b51d",
+        "type": "tabs",
+        "dimension": 28.175026680896476,
+        "children": [
+          {
+            "id": "ae8ed3ddaaabe4ff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "05 A5 Evolution.md"
+              }
+            }
           }
-        }
+        ]
       },
       {
-        "id": "47e345175e0f167e",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "00 dashboard.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "9c37854082608c7d",
+        "type": "tabs",
+        "dimension": 32.87086446104589,
+        "children": [
+          {
+            "id": "01450f64be0f79c6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "05 A5 Evolution.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7cb8ce6064f329f7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "05 A5 Evolution.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3cb9727e0083db3d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3f9216988236f91d",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "96d99aab6c4a5ab7",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "00 dashboard.md"
-          }
-        }
+        ],
+        "currentTab": 3
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 242
   },
   "active": "93b7e7d7a1b36aae",
   "lastOpenFiles": [
-    "00 dashboard.md",
-    "hurston ethnography project draft.md",
-    "daily notes/2022-05-09.md",
-    "05 A5 American History.md",
-    "American History D10.1 4.28.md",
-    "The Declaration of Independence in World Context.md",
-    "Excalidraw/Drawing 2022-05-09 14.04.26.excalidraw.md",
-    "1776 Commission Report.md",
-    "American History D11 5.9.md",
-    "04 world history 1.md"
+    "05 A5 Evolution.md",
+    "Evolution D2 5.10.md",
+    "vestigial structure.md",
+    "homologous structures.md",
+    "daily notes/2022-05-10.md",
+    "adaptation.md",
+    "fitness.md",
+    "Evolution D1 5.9.md",
+    "04 biology.md",
+    "03 freshman.md"
   ]
 }
