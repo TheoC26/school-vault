@@ -4,5 +4,6 @@
   "glassBg": false,
   "shouldAutoCheck": false,
   "pickyMode": true,
-  "ruleOtherCategories": "Typography,Punctuation,"
+  "ruleOtherCategories": "Typography,Punctuation",
+  "ruleOtherDisabledRules": "Smartquotes(“”)"
 }

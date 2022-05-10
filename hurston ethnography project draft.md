@@ -1,4 +1,4 @@
-pages: [[hurston ethnography project]]
+ pages: [[hurston ethnography project]]
 
 ___
 
@@ -15,4 +15,14 @@ The elevator finally comes and Charlie and I hurry in, pressing "1" and door clo
 
 Realizing that we are going to have a long ride, I attempt conversation. "Hey! How's the family?".
 
-He looks at his feet and I can hardly make out the words, "fine" escape his mouth. The door opens on 13, and in walks Jill, a women that looks like she is in her 80s. 
+He looks at his feet and I can hardly make out the words, "fine" escape his mouth. The door slides open on 13, and in walks Jill, a woman that looks like she is in her late 80s. 
+
+"Good morning, young fellows! Where are we off to today?" she croaks out, oblivious to our backpacks and that this is the time of day that every kid goes to school. 
+
+"I am heading to school" I respond, "I'm a little late though". 
+
+"That is okay, we all have our little setbacks that keep us from our larger goals, am I right? What class are you heading too?". The elevator couldn't move any slower. 
+
+"Biology" I say with a forced smile. The elevator slows to a stop at 10. The most hideous colored hallway meets my eyes through the door opening, standing in it with a calm, serene look is a man I have never seen before. He looks to be in his older 20s with long curly hair and sandals. 
+
+"Whats up Charlie! Whats goin on?" He walks in and gives me a small upwards nod, a gesture more for formality than friendliness. 

@@ -21,5 +21,8 @@
   "obsidian-kanban",
   "obsidian-git",
   "obsidian-languagetool-plugin",
-  "obsidian-hover-editor"
+  "obsidian-hover-editor",
+  "obsidian-comments",
+  "customizable-page-header-buttons",
+  "obsidian-custom-frames"
 ]
