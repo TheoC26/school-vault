@@ -15,6 +15,19 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "b0de6085f8ab9b56",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Day Planners/Day Planner-20220510.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -142,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 dashboard.md",
+                "file": "Day Planners/Day Planner-20220510.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 dashboard.md",
+                "file": "Day Planners/Day Planner-20220510.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 dashboard.md"
+                "file": "Day Planners/Day Planner-20220510.md"
               }
             }
           }
@@ -201,11 +214,11 @@
     "direction": "horizontal",
     "width": 242
   },
-  "active": "93b7e7d7a1b36aae",
+  "active": "b0de6085f8ab9b56",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20220510.md",
     "00 dashboard.md",
     "templates/daily note.md",
-    "Day Planners/Day Planner-20220510.md",
     "daily notes/2022-05-10.md",
     "05 A5 Evolution.md",
     "Evolution D2 5.10.md",
