@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "05 A5 Evolution.md",
+            "file": "00 dashboard.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -89,8 +89,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -103,7 +102,7 @@
       {
         "id": "18daba05645119e7",
         "type": "tabs",
-        "dimension": 38.95410885805763,
+        "dimension": 67.2008547008547,
         "children": [
           {
             "id": "9a2a12b62611e89a",
@@ -122,36 +121,20 @@
             }
           },
           {
-            "id": "bb9136a2e63925e6",
+            "id": "78d30150bb287ce9",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "timeline",
               "state": {}
             }
           }
-        ]
-      },
-      {
-        "id": "e3161223d498b51d",
-        "type": "tabs",
-        "dimension": 28.175026680896476,
-        "children": [
-          {
-            "id": "ae8ed3ddaaabe4ff",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "05 A5 Evolution.md"
-              }
-            }
-          }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "9c37854082608c7d",
         "type": "tabs",
-        "dimension": 32.87086446104589,
+        "dimension": 32.7991452991453,
         "children": [
           {
             "id": "01450f64be0f79c6",
@@ -159,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 A5 Evolution.md",
+                "file": "00 dashboard.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -176,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05 A5 Evolution.md",
+                "file": "00 dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,9 +183,19 @@
               "type": "dictionary-view",
               "state": {}
             }
+          },
+          {
+            "id": "ae8ed3ddaaabe4ff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00 dashboard.md"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -210,15 +203,15 @@
   },
   "active": "93b7e7d7a1b36aae",
   "lastOpenFiles": [
+    "00 dashboard.md",
+    "templates/daily note.md",
+    "Day Planners/Day Planner-20220510.md",
+    "daily notes/2022-05-10.md",
     "05 A5 Evolution.md",
     "Evolution D2 5.10.md",
     "vestigial structure.md",
     "homologous structures.md",
-    "daily notes/2022-05-10.md",
     "adaptation.md",
-    "fitness.md",
-    "Evolution D1 5.9.md",
-    "04 biology.md",
-    "03 freshman.md"
+    "fitness.md"
   ]
 }

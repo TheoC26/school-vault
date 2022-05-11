@@ -38,3 +38,4 @@ ___
 ## notes:
 - 
 
+## ![[Day Planner-<% tp.date.now("YYYYMMDD") %>|schedule]]

@@ -322,7 +322,7 @@
           {
             "id": "18daba05645119e7",
             "type": "tabs",
-            "dimension": 38.95410885805763,
+            "dimension": 67.2008547008547,
             "children": [
               {
                 "id": "9a2a12b62611e89a",
@@ -339,30 +339,22 @@
                   "type": "todo",
                   "state": {}
                 }
-              }
-            ]
-          },
-          {
-            "id": "e3161223d498b51d",
-            "type": "tabs",
-            "dimension": 28.175026680896476,
-            "children": [
+              },
               {
-                "id": "ae8ed3ddaaabe4ff",
+                "id": "78d30150bb287ce9",
                 "type": "leaf",
                 "state": {
-                  "type": "outline",
-                  "state": {
-                    "file": "00 dashboard.md"
-                  }
+                  "type": "timeline",
+                  "state": {}
                 }
               }
-            ]
+            ],
+            "currentTab": 2
           },
           {
             "id": "9c37854082608c7d",
             "type": "tabs",
-            "dimension": 32.87086446104589,
+            "dimension": 32.7991452991453,
             "children": [
               {
                 "id": "01450f64be0f79c6",
@@ -411,9 +403,19 @@
                   "type": "dictionary-view",
                   "state": {}
                 }
+              },
+              {
+                "id": "ae8ed3ddaaabe4ff",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "00 dashboard.md"
+                  }
+                }
               }
             ],
-            "currentTab": 3
+            "currentTab": 4
           }
         ],
         "direction": "horizontal",
