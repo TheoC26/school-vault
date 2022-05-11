@@ -27,7 +27,9 @@ He looks at his feet and I can hardly make out the words, "fine" escape his mout
 
 "What's up Charlie! What's goin on?" He walks in and gives me a small upwards nod, a gesture more for formality than friendliness. 
 
-"Hey Joey..." His head stays looking at the carpet, as though he was looking for something. Something to pass the time. 
+"Hey Joey..." His head stays looking at the carpet, as though he was looking for something. Something to make time move quicker. 
+
+
 
 - make this guy super talkative
 
