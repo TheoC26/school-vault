@@ -7,203 +7,140 @@
         "id": "93b7e7d7a1b36aae",
         "type": "leaf",
         "state": {
-          "type": "full-calendar-view",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "hurston ethnography project outline.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "2c20d8105aa1de24",
-    "type": "split",
+    "id": "70aec27cea6761d9",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "59a229b00a6fc00a",
-        "type": "tabs",
-        "dimension": 30.430107526881724,
-        "children": [
-          {
-            "id": "4b75677e57b6f3fe",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
+        "id": "6d1d89343a95120e",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
       },
       {
-        "id": "f61485a7a7e921c6",
-        "type": "tabs",
-        "dimension": 23.870967741935484,
-        "children": [
-          {
-            "id": "42ed7e142fae69a3",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          }
-        ]
+        "id": "9fa02fcc9531fa85",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
       },
       {
-        "id": "37e331d5a81bb1a2",
-        "type": "tabs",
-        "dimension": 45.6989247311828,
-        "children": [
-          {
-            "id": "9f56893587599d27",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "3c8718a7241e6291",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "a2417954829f3a60",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
+        "id": "b61981584ce5d946",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ],
-        "currentTab": 1
+        }
+      },
+      {
+        "id": "8d85d1b9ecf4a5e2",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "9d2470a905b631f9",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 269.0036315917969
+    "currentTab": 1
   },
   "right": {
-    "id": "f4178a10e22b8f52",
-    "type": "split",
+    "id": "bbbf904d57356ed0",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "18daba05645119e7",
-        "type": "tabs",
-        "dimension": 67.2008547008547,
-        "children": [
-          {
-            "id": "9a2a12b62611e89a",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "cb22ba009bd01c88",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
-          },
-          {
-            "id": "78d30150bb287ce9",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 2
+        "id": "93c0820e8402d90d",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
       },
       {
-        "id": "9c37854082608c7d",
-        "type": "tabs",
-        "dimension": 32.7991452991453,
-        "children": [
-          {
-            "id": "01450f64be0f79c6",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": true,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "7cb8ce6064f329f7",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "3cb9727e0083db3d",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "3f9216988236f91d",
-            "type": "leaf",
-            "state": {
-              "type": "dictionary-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "ae8ed3ddaaabe4ff",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
+        "id": "f758c6c8a8d752c5",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "hurston ethnography project outline.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ],
-        "currentTab": 4
+        }
+      },
+      {
+        "id": "47e345175e0f167e",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "hurston ethnography project outline.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "96d99aab6c4a5ab7",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "hurston ethnography project outline.md"
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 242
+    "currentTab": 0
   },
   "active": "93b7e7d7a1b36aae",
   "lastOpenFiles": [
-    "00 dashboard.md",
     "hurston ethnography project outline.md",
-    "hurston ethnography project draft.md",
-    "05 A5 American History.md",
-    "American History D11 5.9.md",
-    "Day Planners/Day Planner-20220510.md",
-    "American History D10.1 4.28.md",
-    "04 world history 1.md",
+    "hurston ethnography project.md",
+    "their eyes were watching god.md",
+    "04 literature and composition.md",
     "03 freshman.md",
-    "02 school.md"
+    "02 school.md",
+    "01 notes.md",
+    "00 dashboard.md",
+    "hurston ethnography project draft.md",
+    "daily notes/2022-05-09.md"
   ]
 }
