@@ -11,6 +11,3 @@ ___
 ## [[01 notes]]
 ## [[01 concepts]]
 ## [[01 daily notes]] 
-
-
-involved

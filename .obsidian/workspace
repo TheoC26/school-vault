@@ -4,143 +4,218 @@
     "type": "split",
     "children": [
       {
-        "id": "93b7e7d7a1b36aae",
+        "id": "e7e113fafa3e4c49",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "hurston ethnography project draft.md",
+            "file": "hurston ethnography project outline.md",
             "mode": "source",
             "backlinks": false,
             "source": false
           }
+        }
+      },
+      {
+        "id": "93b7e7d7a1b36aae",
+        "type": "leaf",
+        "state": {
+          "type": "full-calendar-view",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "46084bfb4bfb34b4",
-    "type": "mobile-drawer",
+    "id": "2c20d8105aa1de24",
+    "type": "split",
     "children": [
       {
-        "id": "4f07bbefc00b61d5",
-        "type": "leaf",
-        "state": {
-          "type": "recent-files",
-          "state": {}
-        }
-      },
-      {
-        "id": "4e54ab5e582ca24c",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "505c0cd9f2f91020",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "59a229b00a6fc00a",
+        "type": "tabs",
+        "dimension": 30.430107526881724,
+        "children": [
+          {
+            "id": "4b75677e57b6f3fe",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        }
+        ]
       },
       {
-        "id": "a163cd0b181c7403",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
+        "id": "f61485a7a7e921c6",
+        "type": "tabs",
+        "dimension": 23.870967741935484,
+        "children": [
+          {
+            "id": "42ed7e142fae69a3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        }
+        ]
       },
       {
-        "id": "5149f98692fe0329",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        "id": "37e331d5a81bb1a2",
+        "type": "tabs",
+        "dimension": 45.6989247311828,
+        "children": [
+          {
+            "id": "9f56893587599d27",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3c8718a7241e6291",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a2417954829f3a60",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 269.0036315917969,
+    "collapsed": true
   },
   "right": {
-    "id": "c6627baf8cb27880",
-    "type": "mobile-drawer",
+    "id": "f4178a10e22b8f52",
+    "type": "split",
     "children": [
       {
-        "id": "fabf7c19c5e85a52",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
+        "id": "18daba05645119e7",
+        "type": "tabs",
+        "dimension": 38.95410885805763,
+        "children": [
+          {
+            "id": "9a2a12b62611e89a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "cb22ba009bd01c88",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ]
       },
       {
-        "id": "4327b1c29dd5b5e9",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "hurston ethnography project draft.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "e3161223d498b51d",
+        "type": "tabs",
+        "dimension": 28.175026680896476,
+        "children": [
+          {
+            "id": "ae8ed3ddaaabe4ff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
           }
-        }
+        ]
       },
       {
-        "id": "a4b6c920607b101b",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "hurston ethnography project draft.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "9c37854082608c7d",
+        "type": "tabs",
+        "dimension": 32.87086446104589,
+        "children": [
+          {
+            "id": "01450f64be0f79c6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7cb8ce6064f329f7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3cb9727e0083db3d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3f9216988236f91d",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "10d9f8555996c3d8",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "hurston ethnography project draft.md"
-          }
-        }
+        ],
+        "currentTab": 3
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 242,
+    "collapsed": true
   },
   "active": "93b7e7d7a1b36aae",
   "lastOpenFiles": [
-    "hurston ethnography project draft.md",
-    "hurston ethnography project outline.md",
-    "Day Planners/Day Planner-20220511.md",
     "daily notes/2022-05-11.md",
+    "hurston ethnography project draft.md",
     "00 dashboard.md",
+    "daily notes/01 daily notes.md",
+    "school calendar/(Every ) english).md",
+    "school calendar/(Every W,F,R,M) house).md",
+    "Day Planners/Day Planner-20220511.md",
     "American History D12 5.11.md",
     "habeas corpus.md",
-    "05 A5 American History.md",
-    "American History D10.1 4.28.md",
-    "Shay's Rebellion.md"
+    "05 A5 American History.md"
   ]
 }

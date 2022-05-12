@@ -37,9 +37,13 @@ He looks at his feet and I can hardly make out the words, "fine" escape his mout
 
 "Your a freshman? That's rad dude. I dropped out of school then. Went on to dial in my influencer skill if you know what I mean... Jonah, you're a freshman too right?" 
 
-Before he had a chance to respond, the door on this prison opens, 
+Before he has a chance to respond, the door opens. Who else will have the pleasure of joining this already way too crowded elevator? As the elevator door slowly makes its way across, we realize nobody is even there. Why does everybody do this? If you are gonna take the elevator, take the fricken elevator!
+
+I reach for the door close button, shaving a wopping 6 seconds off this elevator speed run. 
+
+"Wasn't this the apartment that people kept hearing noises from during the night? I'm pretty sure it was this 21b." On our apartment Facebook, people consistently complain about hearing weird wailing and scratching noises on the upper floors. As a building, we have come to the conclusion that it is coming from Mr. Buford's apartment, but he still denies any accusation toward's him or his wife. 
 
 
-- make this guy super talkative
+- [ ] add much more descriptive stuff to make the scene feel more alive
+- [ ] show stuff more and tell less
 
-**I DON'T NEED A DEEP CONVERSATION BUT I CAN JUST MAKE IT ABOUT NOTHING AND MAKE THE NOTHING SHOW THE THINGS** 
