@@ -11,4 +11,3 @@ _Secondary:_ [Crash Course video on the American War for Independence](https://
 _Secondary_: [Foner Free Trade during War?](https://drive.google.com/drive/folders/1y6CaFx4brV2vsJSi8B0h-HWwgSRFmNVA)
 _Primary:_ Perry: Adam Smith, _Wealth of Nations,_ p.125-127
 
-

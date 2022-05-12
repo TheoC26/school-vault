@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "hurston ethnography project outline.md",
+            "file": "hurston ethnography project draft.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -20,11 +20,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "70aec27cea6761d9",
+    "id": "46084bfb4bfb34b4",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "6d1d89343a95120e",
+        "id": "4f07bbefc00b61d5",
         "type": "leaf",
         "state": {
           "type": "recent-files",
@@ -32,7 +32,7 @@
         }
       },
       {
-        "id": "9fa02fcc9531fa85",
+        "id": "4e54ab5e582ca24c",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -40,7 +40,7 @@
         }
       },
       {
-        "id": "b61981584ce5d946",
+        "id": "505c0cd9f2f91020",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -55,7 +55,7 @@
         }
       },
       {
-        "id": "8d85d1b9ecf4a5e2",
+        "id": "a163cd0b181c7403",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -66,7 +66,7 @@
         }
       },
       {
-        "id": "9d2470a905b631f9",
+        "id": "5149f98692fe0329",
         "type": "leaf",
         "state": {
           "type": "starred",
@@ -74,14 +74,14 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
-    "id": "bbbf904d57356ed0",
+    "id": "c6627baf8cb27880",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "93c0820e8402d90d",
+        "id": "fabf7c19c5e85a52",
         "type": "leaf",
         "state": {
           "type": "calendar",
@@ -89,12 +89,12 @@
         }
       },
       {
-        "id": "f758c6c8a8d752c5",
+        "id": "4327b1c29dd5b5e9",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "hurston ethnography project outline.md",
+            "file": "hurston ethnography project draft.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -106,24 +106,24 @@
         }
       },
       {
-        "id": "47e345175e0f167e",
+        "id": "a4b6c920607b101b",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "hurston ethnography project outline.md",
+            "file": "hurston ethnography project draft.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "96d99aab6c4a5ab7",
+        "id": "10d9f8555996c3d8",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "hurston ethnography project outline.md"
+            "file": "hurston ethnography project draft.md"
           }
         }
       }
@@ -132,15 +132,15 @@
   },
   "active": "93b7e7d7a1b36aae",
   "lastOpenFiles": [
-    "hurston ethnography project outline.md",
-    "hurston ethnography project.md",
-    "their eyes were watching god.md",
-    "04 literature and composition.md",
-    "03 freshman.md",
-    "02 school.md",
-    "01 notes.md",
-    "00 dashboard.md",
     "hurston ethnography project draft.md",
-    "daily notes/2022-05-09.md"
+    "hurston ethnography project outline.md",
+    "Day Planners/Day Planner-20220511.md",
+    "daily notes/2022-05-11.md",
+    "00 dashboard.md",
+    "American History D12 5.11.md",
+    "habeas corpus.md",
+    "05 A5 American History.md",
+    "American History D10.1 4.28.md",
+    "Shay's Rebellion.md"
   ]
 }

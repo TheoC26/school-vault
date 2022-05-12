@@ -17,3 +17,6 @@ _Secondary_: [Schuessler, "A Period is Questioned in the Declaration of Indepen
 [[The Declaration of Independence in World Context]]
 
 ![[The Declaration of Independence in World Context#what is it]]
+
+### ![[Jeremy Bentham#quote]]
+

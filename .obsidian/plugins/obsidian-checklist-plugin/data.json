@@ -10,7 +10,9 @@
   "includeFiles": "",
   "lookAndFeel": "classic",
   "_collapsedSections": [
-    "templates/daily note.md"
+    "templates/daily note.md",
+    "daily notes/2022-05-10.md",
+    "daily notes/2022-05-09.md"
   ],
   "_hiddenTags": []
 }

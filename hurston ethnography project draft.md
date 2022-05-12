@@ -5,13 +5,13 @@ ___
 # first draft
 
 
-I am so late! I quickly grab my bag, step in my shoes and head for the door. I press the elevator button and sit down on the bench to tie my shoes. Why did I not get out of bed just five minutes earlier? Hearing the voices of my neighbors, I silently pray for the ancient elevator to come quicker. Their door opens, and I jam my AirPods in my ear, hoping to drown out the Charlie's mom yelling at him to fix his hair. She pulls open the door, revealing her robed self, slyly handing Charlie his apple slices.
+I am so late! I quickly grab my bag, step in my shoes and head for the door. I press the elevator button and sit down on the bench to tie my shoes. Why did I not get out of bed just five minutes earlier? Hearing the voices of my neighbors, I silently pray for the ancient elevator to come quicker. Their door opens, and I jam my AirPods in my ear, hoping to drown out the Jonah's mom yelling at him to fix his hair. She pulls open the door, revealing her robed self, slyly handing Jonah his apple slices.
 
 "Oh um, good morning", she mumbles to me, "have a fine day at school". 
 
-I respond, "thanks" but keep tying my shoes, trying to make as little contact with the awkward pair as possible. Looking up, I see Charlie in his usual suit, penny loafers, and Herschel backpack, eyeing me in disgust for my unreadiness. 
+I respond, "thanks" but keep tying my shoes, trying to make as little contact with the awkward pair as possible. Looking up, I see Jonah in his usual suit, penny loafers, and Herschel backpack, eyeing me in disgust for my unreadiness. 
 
-The elevator finally comes and Charlie and I hurry in, pressing "1" and door close at the same time. Unfortunately, the elevator goes up, my worst nightmare. We could be heading on an adventure to every stinking floor in the entire building. I am going to be years late for school at this point. We both stare at the numbers above the elevator's sliding door, watching them go up at an astronomically slow rate. 
+The elevator finally comes and Jonah and I hurry in, pressing "1" and door close at the same time. Unfortunately, the elevator goes up, my worst nightmare. We could be heading on an adventure to every stinking floor in the entire building. I am going to be years late for school at this point. We both stare at the numbers above the elevator's sliding door, watching them go up at an astronomically slow rate. 
 
 Realizing that we are going to have a long ride, I attempt conversation. "Hey! How's the family?".
 
@@ -25,10 +25,19 @@ He looks at his feet and I can hardly make out the words, "fine" escape his mout
 
 "Biology" I say with a forced smile. The elevator slows to a stop at 10. The most hideous colored hallway meets my eyes through the door opening, standing in it with a calm, serene look is a man I have never seen before. He looks to be in his older 20s with long curly hair and sandals. 
 
-"What's up Charlie! What's goin on?" He walks in and gives me a small upwards nod, a gesture more for formality than friendliness. 
+"What's up Jonah! What's goin on?" He walks in and gives me a small upwards nod, a gesture more for formality than friendliness. 
 
 "Hey Joey..." His head stays looking at the carpet, as though he was looking for something. Something to make time move quicker. 
 
+"Biology!? Did you know I was a Science teacher for 41 years?" She completely ignores the other conversation going on in the elevator, "I taught every class there is, if you ever need help, just come a nockin'!" Of course I now she was a bio teacher. Every time I see her she finds a way to bring it up. She has offered me bio text books, notes, contacts; she has offered me just about everything to do with Biology. 
+
+"What grade are you in?" She asks as though I have never told her before. Short term memory loss can be such a pain. 
+
+"I am a freshman." The elevator is going back up now. Perfect. Just perfect.
+
+"Your a freshman? That's rad dude. I dropped out of school then. Went on to dial in my influencer skill if you know what I mean... Jonah, you're a freshman too right?" 
+
+Before he had a chance to respond, the door on this prison opens, 
 
 
 - make this guy super talkative
