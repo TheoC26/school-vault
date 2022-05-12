@@ -20,7 +20,7 @@ ___
 - [ ] stretch 
 - [ ] pt
 - [ ] 50 pushups
-- [ ] 
+- [ ] ab workout
 
 
 
