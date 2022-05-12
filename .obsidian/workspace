@@ -4,51 +4,25 @@
     "type": "split",
     "children": [
       {
+        "id": "e7e113fafa3e4c49",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "hurston ethnography project outline.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
         "id": "93b7e7d7a1b36aae",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "templates/new note.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "e3ba78b62a87e526",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "00 dashboard.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "73f4573f4f056028",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "05 A5 Evolution.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "66bcd204fc1a3c1f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Evolution D3 5.12.md",
+            "file": "hurston ethnography project draft.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -128,12 +102,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 269.0036315917969
+    "width": 269.0036315917969,
+    "collapsed": true
   },
   "right": {
     "id": "f4178a10e22b8f52",
@@ -142,7 +116,7 @@
       {
         "id": "18daba05645119e7",
         "type": "tabs",
-        "dimension": 67.2008547008547,
+        "dimension": 38.95410885805763,
         "children": [
           {
             "id": "9a2a12b62611e89a",
@@ -159,22 +133,30 @@
               "type": "todo",
               "state": {}
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "e3161223d498b51d",
+        "type": "tabs",
+        "dimension": 28.175026680896476,
+        "children": [
           {
-            "id": "78d30150bb287ce9",
+            "id": "ae8ed3ddaaabe4ff",
             "type": "leaf",
             "state": {
-              "type": "timeline",
-              "state": {}
+              "type": "outline",
+              "state": {
+                "file": "hurston ethnography project draft.md"
+              }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "9c37854082608c7d",
         "type": "tabs",
-        "dimension": 32.7991452991453,
+        "dimension": 32.87086446104589,
         "children": [
           {
             "id": "01450f64be0f79c6",
@@ -182,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 A5 Evolution.md",
+                "file": "hurston ethnography project draft.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -199,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05 A5 Evolution.md",
+                "file": "hurston ethnography project draft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,26 +205,18 @@
               "type": "dictionary-view",
               "state": {}
             }
-          },
-          {
-            "id": "ae8ed3ddaaabe4ff",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "05 A5 Evolution.md"
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 242
+    "width": 242,
+    "collapsed": true
   },
-  "active": "73f4573f4f056028",
+  "active": "93b7e7d7a1b36aae",
   "lastOpenFiles": [
+    "hurston ethnography project draft.md",
     "05 A5 Evolution.md",
     "00 dashboard.md",
     "templates/new note.md",
@@ -251,7 +225,6 @@
     "03 freshman.md",
     "Untitled.md",
     "02 school.md",
-    "01 notes.md",
-    "hurston ethnography project draft.md"
+    "01 notes.md"
   ]
 }
