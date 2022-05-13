@@ -12,6 +12,10 @@ ___
 - Vanessa (bio teacher)
 	- old
 	- loves to tell people that she would love to help them
+- Joey (influencer)
+	- Hawaii type vibe
+	- likes drama
+- Mr. Buford
 
 
 #### premise

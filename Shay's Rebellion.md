@@ -21,12 +21,34 @@ ___
 	- little money so reliant on bartering
 - August 29, 1786
 
+## why did it happen
+- concerns of farmers
+	- lack of money supply
+	- crippling debts
+	- unfair treatment by authorities
+		- e.g. suspension of [[habeas corpus]]
+	- farmers have taken loans, but do not have means to pay it back
+	- [[pro creditor]] (Boston)
+		- the one giving the loan
+		- the bank or wealthy individuals
+	- [[pro debtor]] (farmers in western mass)
+		- the one that took out the loan
+		- farmers/lower class 
+- student debt debate
+	- if they forgive debt, they are allowing for the debtors to stimulate the economy
+
+- does Massachusetts suspension of [[habeas corpus]] represent a functioning government?
+	- what is motivating this decision
+
 ## who was involved
 - there were 1800 men ready to overthrow the government
 
+
 ## impact/significance
-- does Massachusetts suspension of [[habeas corpus]] represent a functioning government?
-	- what is motivating this decision
+#### [[Washington and Jefferson on Shays's Rebellion]]
+![[Washington and Jefferson on Shays's Rebellion#analysis]]
+
+
 
 ## sources on it
 _Secondary_: [Choices Program, pp. 38-45](https://drive.google.com/file/d/1ApdPvoPnKB0GZsUvOmLpNRCA4KPuab4I/view?usp=sharing) 
