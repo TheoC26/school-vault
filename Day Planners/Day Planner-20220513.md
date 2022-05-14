@@ -3,7 +3,7 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 10:51:25 PM
+    %% Current Time: 11:10:09 PM
     section Tasks
     do english reading     :11-20, 40mm
     english class     :12-00, 55mm
