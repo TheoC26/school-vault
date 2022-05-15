@@ -141,16 +141,7 @@
       "key": "A"
     }
   ],
-  "obsidian-languagetool-plugin:ltcheck-text": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "L"
-    }
-  ],
-  "workspaces:load": [
+  "workspaces:open-modal": [
     {
       "modifiers": [
         "Mod"
