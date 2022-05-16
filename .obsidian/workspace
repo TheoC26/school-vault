@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Articles of Confederation.md",
+            "file": "00 dashboard.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Articles of Confederation.md",
+                "file": "00 dashboard.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Articles of Confederation.md",
+                "file": "00 dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Articles of Confederation.md"
+                "file": "00 dashboard.md"
               }
             }
           }
@@ -210,12 +210,12 @@
   },
   "active": "93b7e7d7a1b36aae",
   "lastOpenFiles": [
+    "00 dashboard.md",
     "The Articles of Confederation.md",
     "05 A5 American History.md",
     "American History D13 5.13.md",
     "04 world history 1.md",
     "03 freshman.md",
-    "00 dashboard.md",
     "Day Planners/Day Planner-20220513.md",
     "daily notes/2022-05-13.md",
     "American History D12 5.11.md",
