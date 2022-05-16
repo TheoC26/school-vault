@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "cee18f27daafb29d",
+        "id": "93b7e7d7a1b36aae",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -24,37 +24,24 @@
     "type": "split",
     "children": [
       {
-        "id": "f61485a7a7e921c6",
+        "id": "59a229b00a6fc00a",
         "type": "tabs",
+        "dimension": 30.430107526881724,
         "children": [
           {
-            "id": "3c8718a7241e6291",
+            "id": "4b75677e57b6f3fe",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
+              "type": "graph",
               "state": {}
-            }
-          },
-          {
-            "id": "9f56893587599d27",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": true,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
             }
           }
         ]
       },
       {
-        "id": "37e331d5a81bb1a2",
+        "id": "f61485a7a7e921c6",
         "type": "tabs",
+        "dimension": 23.870967741935484,
         "children": [
           {
             "id": "42ed7e142fae69a3",
@@ -65,10 +52,49 @@
             }
           }
         ]
+      },
+      {
+        "id": "37e331d5a81bb1a2",
+        "type": "tabs",
+        "dimension": 45.6989247311828,
+        "children": [
+          {
+            "id": "9f56893587599d27",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3c8718a7241e6291",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a2417954829f3a60",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 269.0036315917969
   },
   "right": {
     "id": "f4178a10e22b8f52",
@@ -77,7 +103,38 @@
       {
         "id": "18daba05645119e7",
         "type": "tabs",
-        "dimension": 30.18867924528302,
+        "dimension": 33.60042735042735,
+        "children": [
+          {
+            "id": "9a2a12b62611e89a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "cb22ba009bd01c88",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "78d30150bb287ce9",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "65f35f27b89569d2",
+        "type": "tabs",
+        "dimension": 33.60042735042735,
         "children": [
           {
             "id": "3cb9727e0083db3d",
@@ -93,26 +150,9 @@
         ]
       },
       {
-        "id": "e3161223d498b51d",
-        "type": "tabs",
-        "dimension": 39.740566037735846,
-        "children": [
-          {
-            "id": "ae8ed3ddaaabe4ff",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "The Articles of Confederation.md"
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "9c37854082608c7d",
         "type": "tabs",
-        "dimension": 30.070754716981128,
+        "dimension": 32.7991452991453,
         "children": [
           {
             "id": "01450f64be0f79c6",
@@ -122,7 +162,7 @@
               "state": {
                 "file": "The Articles of Confederation.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -142,24 +182,43 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "3f9216988236f91d",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "ae8ed3ddaaabe4ff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "The Articles of Confederation.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 242
   },
-  "active": "cee18f27daafb29d",
+  "active": "93b7e7d7a1b36aae",
   "lastOpenFiles": [
     "The Articles of Confederation.md",
-    "American History D12 5.11.md",
     "05 A5 American History.md",
+    "American History D13 5.13.md",
     "04 world history 1.md",
     "03 freshman.md",
-    "02 school.md",
-    "01 notes.md",
-    "05 A5 Evolution.md",
-    "04 biology.md",
-    "00 dashboard.md"
+    "00 dashboard.md",
+    "Day Planners/Day Planner-20220513.md",
+    "daily notes/2022-05-13.md",
+    "American History D12 5.11.md",
+    "04 biology.md"
   ]
 }

@@ -65,7 +65,7 @@
   "partOfSpeechApiName": "Systran API",
   "advancedSynonymAnalysis": false,
   "useCaching": false,
-  "folder": "dictionary",
+  "folder": "",
   "capitalizedFileName": true,
   "prefix": "",
   "suffix": " ({{lang}})",
