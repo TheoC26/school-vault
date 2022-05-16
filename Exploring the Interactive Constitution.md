@@ -7,11 +7,13 @@ ___
 
 ## instructions
 [instructions](https://docs.google.com/document/d/1l9MBXiHL93Qdtvq4CMSESmMc7yaa9ET2alP89jfVITw/edit)
+[website](https://constitutioncenter.org/interactive-constitution/amendment/amendment-i)
 
 
 ## ideas
-- 
-
+- First Amendment
+- what is motivating the framers to put the content in this section
+we the people podcast
 
 ## todo
 *create kanban*

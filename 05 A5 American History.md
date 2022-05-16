@@ -19,10 +19,12 @@ ___
 - [[American History D11 5.9]] 
 - [[American History D12 5.11]] 
 - [[American History D13 5.13]] 
+- [[American History D14 5.16]]
 
 
-## assignments
-
+## assessments 
+- QE
+	- Will not include the constitution!!!
 
 
 ## projects

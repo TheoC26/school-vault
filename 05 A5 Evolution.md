@@ -27,4 +27,4 @@ ___
 - [[Evolution D4 5.16]]
 
 ## projects
-- [Battle of the Beaks](https://docs.google.com/document/d/1zQUNEP5AtWMLCMKvXZR5tDcrieKwK-vySxBH8r5k-3Y/edit)
+- [Battle of the B'eaks](https://docs.google.com/document/d/1zQUNEP5AtWMLCMKvXZR5tDcrieKwK-vySxBH8r5k-3Y/edit)
