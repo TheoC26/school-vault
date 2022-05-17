@@ -33,5 +33,5 @@ general principleds
 - if environmental conditions change, selective pressure can change!!
 
 **adaptation is not on purpose!** 
-organisms do not actively try to adap
+organisms do not actively try to adapt
 selection does not give organisms what they need
